@@ -1,0 +1,14 @@
+{
+  "name": "binary-protocol-inspector",
+  "version": "1.0.0",
+  "description": "二进制协议解析与十六进制透视",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
